@@ -97,8 +97,11 @@ Sistema de ecuaciones que podemos resolver usando matrices o directamente en cal
 Así tenemos los siguientes resultados:
 
 i_1=0.017 A
-i_2=0.0168
+
+i_2=0.0168 A
+
 i_3=0.003892=3.892 mA
+
 
 La ultima corriente la i_3 es la corriente que pasa por la resistencia de carga y es la corriente que encontramos realizando el equivalente de Thévenin, por último el voltaje:
 
