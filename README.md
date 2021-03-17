@@ -1,5 +1,5 @@
                                                #UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
-![](https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_ESPEOk.png)
+                               ![](https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_ESPEOk.png)
 
 
 #  LABORATORIO 7
