@@ -1,5 +1,7 @@
-![](https://pbs.twimg.com/profile_images/712307087577993217/D8_89Lg4_400x400.jpg)
-##  LABORATORIO 7
+![](https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_ESPEOk.png)
+
+
+#  LABORATORIO 7
                                                                             
                                                                             
                                                                             
@@ -159,7 +161,9 @@ Para la realización de las medidas con el multímetro debemos tener en cuenta a
 # 7.Aportaciones o Recomendaciones
 
 •	Ser cuidaosos en la colocación de los valores en los resistores, unque esta tarea resulta bastantemente fácil, si nos descuidamos al final ponemos valores que no son y tenemos que realizar los cálculos respectivos de nuevo.
+
 •	Apagar todas y cada una de las fuentes para hallar la respectiva resistencia de Thévenin con el multímetro, caso contrario porvocariamos un daño en el multímetro al momento de realizar las mediciones.
+
 •	Usar la mayor cantidad de decimales como nos sea posible a fin de tener una mayor precisión en los resultados
 
 # 8.Concluiones
