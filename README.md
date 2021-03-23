@@ -22,13 +22,63 @@
 
 
 
+# 1. OBJETIVO GENERAL
+
+Comprobar mediante la teoría y la práctica el teorema de Thévenin al realizar el ejercicio de un circuito resistivo propuesto en este laboratorio, además, de mostrar la validez al momento de reducir un circuito eléctrico complejo por uno más sencillo.
+
+# 2.OBJETIVOS ESPECÍFICOS 
+
+-	Reconocer la utilidad y mejorar la comprensión sobre el teorema de Thévenin.
+-	Abstraer de forma sencilla y clara el conocimiento sobre los diferentes tipos de conversiones de fuentes.
+-	Analizar la aplicabilidad de este teorema no solo de manera teórica sino también práctica a través de un simulador donde podemos trabajar mejor en los conceptos principales.
 
 
+# 3. MARCO TEÓRICO
+
+Al desarrollar los temas del syllabus de esta materia durante este semestre, pudimos comprender conceptos básicos y un poco más avanzados que nos permitirán estar preparados para diversas situaciones que se pueden presentar en el transcurso de nuestro entorno laboral. Tal es el caso del tema que abordaremos en esta ocasión a lo largo de este laboratorio, el teorema de Thévenin que establece según nuestro criterio menora en gran medida el tiempo cuando se realizan los cálculos repetitivos en el sistema eléctrico.  Así nos encontramos con un circuito con dos terminales que se pueden sustituir por otro que sea más sencillo constituido por un generador de fuerza electromotriz Vth y una resistencia en serie Rth. 
+
+Para comprender mejor el tema se incluirán conceptos que pueden facilitar el entendimiento del tema abordado.
+
+
+--- Teorema de Thévenin ---
+
+El surgimiento de este teorema es alrededor del año 1853, de manos del científico alemán “Hermman von Helmholtz”, a quien se le atribuye este gran descubrimiento en el campo electrónico. Sin embargo, algo que se debe aclarar es su falta de interés en esta teoría al momento de su lanzamiento, no fue hasta 1883 cuando el ingeniero en telégrafos francés “León Charles Thévenin” se interesa en investigar este tema, por lo cual, el teorema lleva su nombre.
+
+Como se especifico anteriormente, algo que destaca de este teorema es el simplificar los cálculos de un sistema eléctrico que simula ser muy complejo transformándolo por un circuito eléctrico equivalente con menor complejidad lo que lo vuelve simple de resolver. Estableciendo que cualquier red de corriente directa lineal bilateral de dos terminales podría ser reemplazada por un circuito equivalente que se conforme de un resistor en serie y una fuente de voltaje mostrado en el siguiente gráfico:
+
+![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/164705619_278512120514519_7128607612741548526_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=AlPWpoENbdIAX8NXQTo&_nc_ht=scontent.fuio4-1.fna&oh=8033716c66516a1a63848fcc82c80cc6&oe=60800FC4)
+
+En otras palabras, esto significa que, si una resistencia está conectada a un circuito entre puntos A y B, entonces vamos a reemplazar el circuito por el otro que se considere equivalente, así sabemos que por la resistencia llega a circular la misma corriente.
+
+Entonces, se denomina tensión de Thévenin al valor de la fuente del circuito que se puede calcular al obtener la tensión existente entre el punto A y B, poniendo a todas las fuentes en cortocircuito.
+
+--- Pasos para analizar el teorema de Thévenin ---
+
+![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/164937588_278512173847847_8364444591247001259_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=q9HWh2N9c_0AX8eOkh9&_nc_ht=scontent.fuio4-1.fna&oh=ea75c3cb9d5e66affa783bfb14114d3b&oe=607F4099)
+
+--- Ventajas de aplicar el teorema de Thévenin ---
+
+![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/164240422_278512147181183_7672415169702204848_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=XBjUaUTPr3QAX_W4krQ&_nc_ht=scontent.fuio4-1.fna&oh=ff34845ee08f0e1b7449b8022eca18a2&oe=607FD3E5)
+
+
+Otro de los conceptos que es importante clarificar a lo largo de este laboratorio es el del Potenciómetro.
+
+--- Potenciómetro ---
+
+Este concepto va asociado al tema principal de este informe, conocemos como potenciómetro a un resistor cuyo valor de resistencia varia, por lo cual, se logra controlar la intensidad de corriente que circula por el circuito si este esta conectado en paralelo, además, de la diferencia de potencial al conectarlo en serie. Estos se utilizan usualmente en todo tipo de circuitos que poseen poca corriente. 
+
+![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/164277707_278512217181176_6476832628524925946_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_ohc=4CYZc4lfxfIAX9-mq7D&_nc_ht=scontent.fuio4-1.fna&oh=f9b5ce49957b7f606cf3d26ad53eb4b4&oe=607E2B04)
+
+Su principal función es el limitar la intensidad de la corriente eléctrica, lo que lleva a provocar una caída de tensión en todos ellos al igual que en una resistencia, sin embargo, cada valor de la corriente y la tensión de este puede generar diversos valores tan solo con cambiar el valor de la resistencia. Según la aplicación de estos se distinguen diversos tipos: 
+
+--- Tipos de Potenciómetros ---
+
+![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/164315292_278512240514507_6575325420943117165_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_ohc=H0pFfqvUXwAAX81EuJR&_nc_ht=scontent.fuio4-1.fna&oh=919705b65b0189e0c6cb49884d06e8e5&oe=607F9391)
 
 
 # 4.Lista de componentes
 
-A continuación, se presenta ña lista de componentes para el presente laboratorio
+A continuación, se presenta la lista de componentes para el presente laboratorio
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/161290219_268113908087986_3494898432595147568_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFb-xLtWDypR8Idwo9o5FLGjoWbI0Y8F-2OhZsjRjwX7bh9hDiMo_CUt2ztcGHK-9fPYdHy9XI8ImhsnAW64v12&_nc_ohc=GWXfvLOz-o0AX89WeO0&_nc_ht=scontent.fuio1-1.fna&oh=a649a32dcdfcc6e40ef76674488ce076&oe=607563ED)
 
@@ -172,11 +222,29 @@ Para la realización de las medidas con el multímetro debemos tener en cuenta a
 
 # 8.Concluiones
 
-•	Finalmente comprobamos que el teorema aprendido en la teoría es correcto y se cumple en este caso con un circuito ya ensamblado en la realidad, asi que si queremos analizar un circuito tremendamente grande y extenso en solo dos termianles, podemos apoyarnos en el teorema, y no evitamos realizar los cálculos cada vez que los cálculos cada vez que colocamos una nueva resistencia en las terminales que estamos analizando.
+Al culminar la práctica N°7 de este semestre podemos visualizar no solo teóricamente, sino matemática y prácticamente la funcionalidad del teorema de Thévenin, lo que nos permite, que el valor de las resistencias se puede sustituir por otra fuente de tensión y así facilitar los cálculos en la resolución del circuito. Si algo podemos resaltar de este laboratorio es que este teorema nos permitió el calculo de manera más fácil y rápida, lo que en nuestro ámbito laboral será de gran ayuda no solo para reducir tiempo sino también dinero que se emplee en el desarrollo de estos.
 
-# 10Bibliografia
+Además, el porcentaje de error presente en el laboratorio no es grande, de modo, que concluimos que los resultados obtenidos y plasmados en este informe son exitosos. Comprendiendo que para calcular la resistencia al aplicar el teorema de Thévenin utilizando un cortocircuito a las fuentes de voltaje y para fuentes de corriente debemos reemplazar un circuito abierto.  
 
-# 11Anexos
+Finalmente comprobamos que el teorema aprendido en la teoría es correcto y se cumple en este caso con un circuito ya ensamblado en la realidad, asi que si queremos analizar un circuito tremendamente grande y extenso en solo dos termianles, podemos apoyarnos en el teorema, y no evitamos realizar los cálculos cada vez que los cálculos cada vez que colocamos una nueva resistencia en las terminales que estamos analizando.
+
+
+# 10. Bibliografia
+
+Charles K. Alexander, M. N. (2006). : FUNDAMENTALS OF ELECTRIC CIRCUITS, THIRD EDITION. México: McGRAW-HILL/INTERAMERICANA EDITORES, S.A. DE C.V.
+
+Darwin, I. (23 de Abril de 2019). TEOREMA DE THEVENIN (CIRCUITOS ELÉCTRICOS) / EJERCICIO 1. Recuperado el 19 de Marzo de 2021, de https://www.youtube.com/watch?v=yoGGTfONnwE
+
+FP, E. (7 de Noviembre de 2017). Teorema de Thévenin. Recuperado el 19 de Marzo de 2021, de https://www.youtube.com/watch?v=VF_qr9VUwvw
+
+Jack E. Kemmerly, W. H. (2007). Análisis de Circuitos en Ingeniería. México: Mc. Graw Hill.
+
+Txelo Ruiz Vázquez, O. A. (2004). Análisis Básico de Circuitos Eléctricos y Electrónicos . Madrid: Pearson Prentice Hall.
+
+Zeines, B. (s.f.). Análisis de Circuitos Eléctricos . C.E.C.S.A.
+
+
+# 11. Anexos
 
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/161675454_268123821420328_4409475958721936390_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHQ1RO5YF47ni6WN08teJq1XfZRvwmeyCJd9lG_CZ7IInOuxjT7ecUP04W5R2FKaq13XXL2QYeMobcKfDFOZBxA&_nc_ohc=NkBPJ8F4RRIAX-dLpQC&_nc_ht=scontent.fuio1-1.fna&oh=af473fde87ec51169ebeee94978e215b&oe=6078E464)
