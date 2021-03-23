@@ -83,7 +83,7 @@ A continuación, se presenta la lista de componentes para el presente laboratori
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/161290219_268113908087986_3494898432595147568_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFb-xLtWDypR8Idwo9o5FLGjoWbI0Y8F-2OhZsjRjwX7bh9hDiMo_CUt2ztcGHK-9fPYdHy9XI8ImhsnAW64v12&_nc_ohc=GWXfvLOz-o0AX89WeO0&_nc_ht=scontent.fuio1-1.fna&oh=a649a32dcdfcc6e40ef76674488ce076&oe=607563ED)
 
-5.Explicación
+#5.Explicación
 
 Primero que todo debemos armar el circuito que se muestra a continuación.
 
