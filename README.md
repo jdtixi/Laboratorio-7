@@ -2,6 +2,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_ESPEOk.png)
 
 
+---------------------
 #  LABORATORIO 7
                                                                             
                                                                             
@@ -21,17 +22,22 @@
 
 
 
+---------------------
 
 # 1. OBJETIVO GENERAL
 
 Comprobar mediante la teoría y la práctica el teorema de Thévenin al realizar el ejercicio de un circuito resistivo propuesto en este laboratorio, además, de mostrar la validez al momento de reducir un circuito eléctrico complejo por uno más sencillo.
 
+
+---------------------
 # 2.OBJETIVOS ESPECÍFICOS 
 
 -	Reconocer la utilidad y mejorar la comprensión sobre el teorema de Thévenin.
 -	Abstraer de forma sencilla y clara el conocimiento sobre los diferentes tipos de conversiones de fuentes.
 -	Analizar la aplicabilidad de este teorema no solo de manera teórica sino también práctica a través de un simulador donde podemos trabajar mejor en los conceptos principales.
 
+
+---------------------
 
 # 3. MARCO TEÓRICO
 
@@ -75,15 +81,15 @@ Entonces, se denomina tensión de Thévenin al valor de la fuente del circuito q
 
 ---------------------
 
-
-
 # 4.Lista de componentes
 
 A continuación, se presenta la lista de componentes para el presente laboratorio
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/161290219_268113908087986_3494898432595147568_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFb-xLtWDypR8Idwo9o5FLGjoWbI0Y8F-2OhZsjRjwX7bh9hDiMo_CUt2ztcGHK-9fPYdHy9XI8ImhsnAW64v12&_nc_ohc=GWXfvLOz-o0AX89WeO0&_nc_ht=scontent.fuio1-1.fna&oh=a649a32dcdfcc6e40ef76674488ce076&oe=607563ED)
 
-#5.Explicación
+
+---------------------
+# 5.Explicación
 
 Primero que todo debemos armar el circuito que se muestra a continuación.
 
@@ -205,6 +211,8 @@ Y para el voltaje y resistencia de Thévenin
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/162537069_268114244754619_2849763629495763141_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeH4guCDkNfCzjb8P1dIUzhwpmCcWLlOwFamYJxYuU7AVu9BBOFvoECIIZZfmiAafVNneM1Y1Xki-Vcz1akLzR44&_nc_ohc=rae9O7ovWqEAX-akU22&_nc_ht=scontent.fuio1-1.fna&oh=34ee1132dae4d94ad6a019c9da9fb0f8&oe=6078716D)
 
+
+---------------------
 # 6.Descripcion de prerrequisitos y configuración
 
 Como prerrequisito tenemos que tener en cuenta nuestros conocimientos acerca de las leyes de Ohm y Kirchhoff, leyes que siempre estarán presente a lo largo de la práctica, además de tener presente de conceptos teóricos como el voltaje y corriente de Thévenin.
@@ -213,6 +221,8 @@ Para la implementación exitosa del circuito, se debe colocar correnctamente los
 
 Para la realización de las medidas con el multímetro debemos tener en cuenta aspectos que ya sabemos como la medida de correinte en serie y la medida del voltaje en paralelo, ajustando el multímetro en amperaje y voltaje según sea el caso.
 
+
+---------------------
 # 7.Aportaciones o Recomendaciones
 
 •	Ser cuidaosos en la colocación de los valores en los resistores, unque esta tarea resulta bastantemente fácil, si nos descuidamos al final ponemos valores que no son y tenemos que realizar los cálculos respectivos de nuevo.
@@ -221,6 +231,8 @@ Para la realización de las medidas con el multímetro debemos tener en cuenta a
 
 •	Usar la mayor cantidad de decimales como nos sea posible a fin de tener una mayor precisión en los resultados
 
+
+---------------------
 # 8.Concluiones
 
 Al culminar la práctica N°7 de este semestre podemos visualizar no solo teóricamente, sino matemática y prácticamente la funcionalidad del teorema de Thévenin, lo que nos permite, que el valor de las resistencias se puede sustituir por otra fuente de tensión y así facilitar los cálculos en la resolución del circuito. Si algo podemos resaltar de este laboratorio es que este teorema nos permitió el calculo de manera más fácil y rápida, lo que en nuestro ámbito laboral será de gran ayuda no solo para reducir tiempo sino también dinero que se emplee en el desarrollo de estos.
@@ -230,6 +242,7 @@ Además, el porcentaje de error presente en el laboratorio no es grande, de modo
 Finalmente comprobamos que el teorema aprendido en la teoría es correcto y se cumple en este caso con un circuito ya ensamblado en la realidad, asi que si queremos analizar un circuito tremendamente grande y extenso en solo dos termianles, podemos apoyarnos en el teorema, y no evitamos realizar los cálculos cada vez que los cálculos cada vez que colocamos una nueva resistencia en las terminales que estamos analizando.
 
 
+---------------------
 # 10. Bibliografia
 
 Charles K. Alexander, M. N. (2006). : FUNDAMENTALS OF ELECTRIC CIRCUITS, THIRD EDITION. México: McGRAW-HILL/INTERAMERICANA EDITORES, S.A. DE C.V.
@@ -245,8 +258,8 @@ Txelo Ruiz Vázquez, O. A. (2004). Análisis Básico de Circuitos Eléctricos y 
 Zeines, B. (s.f.). Análisis de Circuitos Eléctricos . C.E.C.S.A.
 
 
+---------------------
 # 11. Anexos
-
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/161675454_268123821420328_4409475958721936390_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHQ1RO5YF47ni6WN08teJq1XfZRvwmeyCJd9lG_CZ7IInOuxjT7ecUP04W5R2FKaq13XXL2QYeMobcKfDFOZBxA&_nc_ohc=NkBPJ8F4RRIAX-dLpQC&_nc_ht=scontent.fuio1-1.fna&oh=af473fde87ec51169ebeee94978e215b&oe=6078E464)
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.0-9/161431969_268123808086996_7622892132928758170_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeGzn2QJyt7CVJo0OWOxfjfMQPllujlmL2lA-WW6OWYvaWVTeOjJFU23EGRnaB44ATxqBX3wK1wv4xXz9ZQ66Upl&_nc_ohc=Lks4c_mFx7IAX9TD4mh&_nc_ht=scontent.fuio1-1.fna&oh=d71a995eab1ef2a5917027b2526d0816&oe=60776396)
