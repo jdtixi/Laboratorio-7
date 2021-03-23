@@ -40,7 +40,10 @@ Al desarrollar los temas del syllabus de esta materia durante este semestre, pud
 Para comprender mejor el tema se incluirán conceptos que pueden facilitar el entendimiento del tema abordado.
 
 
+---------------------------
 --- Teorema de Thévenin ---
+---------------------------
+
 
 El surgimiento de este teorema es alrededor del año 1853, de manos del científico alemán “Hermman von Helmholtz”, a quien se le atribuye este gran descubrimiento en el campo electrónico. Sin embargo, algo que se debe aclarar es su falta de interés en esta teoría al momento de su lanzamiento, no fue hasta 1883 cuando el ingeniero en telégrafos francés “León Charles Thévenin” se interesa en investigar este tema, por lo cual, el teorema lleva su nombre.
 
@@ -52,18 +55,29 @@ En otras palabras, esto significa que, si una resistencia está conectada a un c
 
 Entonces, se denomina tensión de Thévenin al valor de la fuente del circuito que se puede calcular al obtener la tensión existente entre el punto A y B, poniendo a todas las fuentes en cortocircuito.
 
+
+--------------------------------------------------
 --- Pasos para analizar el teorema de Thévenin ---
+--------------------------------------------------
+
 
 ![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/164937588_278512173847847_8364444591247001259_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=q9HWh2N9c_0AX8eOkh9&_nc_ht=scontent.fuio4-1.fna&oh=ea75c3cb9d5e66affa783bfb14114d3b&oe=607F4099)
 
+
+--------------------------------------------------
 --- Ventajas de aplicar el teorema de Thévenin ---
+--------------------------------------------------
+
 
 ![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/164240422_278512147181183_7672415169702204848_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=XBjUaUTPr3QAX_W4krQ&_nc_ht=scontent.fuio4-1.fna&oh=ff34845ee08f0e1b7449b8022eca18a2&oe=607FD3E5)
 
 
 Otro de los conceptos que es importante clarificar a lo largo de este laboratorio es el del Potenciómetro.
 
+
+---------------------
 --- Potenciómetro ---
+---------------------
 
 Este concepto va asociado al tema principal de este informe, conocemos como potenciómetro a un resistor cuyo valor de resistencia varia, por lo cual, se logra controlar la intensidad de corriente que circula por el circuito si este esta conectado en paralelo, además, de la diferencia de potencial al conectarlo en serie. Estos se utilizan usualmente en todo tipo de circuitos que poseen poca corriente. 
 
@@ -71,7 +85,10 @@ Este concepto va asociado al tema principal de este informe, conocemos como pote
 
 Su principal función es el limitar la intensidad de la corriente eléctrica, lo que lleva a provocar una caída de tensión en todos ellos al igual que en una resistencia, sin embargo, cada valor de la corriente y la tensión de este puede generar diversos valores tan solo con cambiar el valor de la resistencia. Según la aplicación de estos se distinguen diversos tipos: 
 
+
+-------------------------------
 --- Tipos de Potenciómetros ---
+-------------------------------
 
 ![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/164315292_278512240514507_6575325420943117165_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_ohc=H0pFfqvUXwAAX81EuJR&_nc_ht=scontent.fuio4-1.fna&oh=919705b65b0189e0c6cb49884d06e8e5&oe=607F9391)
 
