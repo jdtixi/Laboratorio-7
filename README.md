@@ -72,25 +72,9 @@ Entonces, se denomina tensión de Thévenin al valor de la fuente del circuito q
 ![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/164240422_278512147181183_7672415169702204848_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=XBjUaUTPr3QAX_W4krQ&_nc_ht=scontent.fuio4-1.fna&oh=ff34845ee08f0e1b7449b8022eca18a2&oe=607FD3E5)
 
 
-Otro de los conceptos que es importante clarificar a lo largo de este laboratorio es el del Potenciómetro.
-
 
 ---------------------
---- Potenciómetro ---
----------------------
 
-Este concepto va asociado al tema principal de este informe, conocemos como potenciómetro a un resistor cuyo valor de resistencia varia, por lo cual, se logra controlar la intensidad de corriente que circula por el circuito si este esta conectado en paralelo, además, de la diferencia de potencial al conectarlo en serie. Estos se utilizan usualmente en todo tipo de circuitos que poseen poca corriente. 
-
-![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/164277707_278512217181176_6476832628524925946_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_ohc=4CYZc4lfxfIAX9-mq7D&_nc_ht=scontent.fuio4-1.fna&oh=f9b5ce49957b7f606cf3d26ad53eb4b4&oe=607E2B04)
-
-Su principal función es el limitar la intensidad de la corriente eléctrica, lo que lleva a provocar una caída de tensión en todos ellos al igual que en una resistencia, sin embargo, cada valor de la corriente y la tensión de este puede generar diversos valores tan solo con cambiar el valor de la resistencia. Según la aplicación de estos se distinguen diversos tipos: 
-
-
--------------------------------
---- Tipos de Potenciómetros ---
--------------------------------
-
-![](https://scontent.fuio4-1.fna.fbcdn.net/v/t1.0-9/164315292_278512240514507_6575325420943117165_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_ohc=H0pFfqvUXwAAX81EuJR&_nc_ht=scontent.fuio4-1.fna&oh=919705b65b0189e0c6cb49884d06e8e5&oe=607F9391)
 
 
 # 4.Lista de componentes
